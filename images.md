@@ -1,58 +1,54 @@
-<style>
-img {
- float: left;
-}
-</style>
 
 
-<img src="img/curb10.jpg" width=200/>
-<img src="img/curb11.jpg" width=200/>
-<img src="img/curb12.jpg" width=200/>
-<img src="img/curb13.jpg" width=200/>
-<img src="img/curb14.jpg" width=200/>
-<img src="img/curb15.jpg" width=200/>
-<img src="img/curb16.jpg" width=200/>
-<img src="img/curb17.jpg" width=200/>
-<img src="img/curb18.jpg" width=200/>
-<img src="img/curb19.jpg" width=200/>
-<img src="img/curb1.jpg" width=200/>
-<img src="img/curb20.jpg" width=200/>
-<img src="img/curb21.jpg" width=200/>
-<img src="img/curb22.jpg" width=200/>
-<img src="img/curb23.jpg" width=200/>
-<img src="img/curb24.jpg" width=200/>
-<img src="img/curb25.jpg" width=200/>
-<img src="img/curb26.jpg" width=200/>
-<img src="img/curb27.jpg" width=200/>
-<img src="img/curb28.jpg" width=200/>
-<img src="img/curb29.jpg" width=200/>
-<img src="img/curb2.jpg" width=200/>
-<img src="img/curb30.jpg" width=200/>
-<img src="img/curb31.jpg" width=200/>
-<img src="img/curb32.jpg" width=200/>
-<img src="img/curb33.jpg" width=200/>
-<img src="img/curb34.jpg" width=200/>
-<img src="img/curb35.jpg" width=200/>
-<img src="img/curb36.jpg" width=200/>
-<img src="img/curb37.jpg" width=200/>
-<img src="img/curb38.jpg" width=200/>
-<img src="img/curb39.jpg" width=200/>
-<img src="img/curb3.jpg" width=200/>
-<img src="img/curb40.jpg" width=200/>
-<img src="img/curb41.jpg" width=200/>
-<img src="img/curb42.jpg" width=200/>
-<img src="img/curb43.jpg" width=200/>
-<img src="img/curb44.jpg" width=200/>
-<img src="img/curb45.jpg" width=200/>
-<img src="img/curb4.jpg" width=200/>
-<img src="img/curb52.jpg" width=200/>
-<img src="img/curb53.jpg" width=200/>
-<img src="img/curb54.jpg" width=200/>
-<img src="img/curb55.jpg" width=200/>
-<img src="img/curb56.jpg" width=200/>
-<img src="img/curb57.jpg" width=200/>
-<img src="img/curb5.jpg" width=200/>
-<img src="img/curb6.jpg" width=200/>
-<img src="img/curb7.jpg" width=200/>
-<img src="img/curb8.jpg" width=200/>
-<img src="img/curb9.jpg" width=200/>
+
+<img src="img/curb10.jpg" style="width: 200; float: left;"/>
+<img src="img/curb11.jpg" style="width: 200; float: left;"/>
+<img src="img/curb12.jpg" style="width: 200; float: left;"/>
+<img src="img/curb13.jpg" style="width: 200; float: left;"/>
+<img src="img/curb14.jpg" style="width: 200; float: left;"/>
+<img src="img/curb15.jpg" style="width: 200; float: left;"/>
+<img src="img/curb16.jpg" style="width: 200; float: left;"/>
+<img src="img/curb17.jpg" style="width: 200; float: left;"/>
+<img src="img/curb18.jpg" style="width: 200; float: left;"/>
+<img src="img/curb19.jpg" style="width: 200; float: left;"/>
+<img src="img/curb1.jpg" style="width: 200; float: left;"/>
+<img src="img/curb20.jpg" style="width: 200; float: left;"/>
+<img src="img/curb21.jpg" style="width: 200; float: left;"/>
+<img src="img/curb22.jpg" style="width: 200; float: left;"/>
+<img src="img/curb23.jpg" style="width: 200; float: left;"/>
+<img src="img/curb24.jpg" style="width: 200; float: left;"/>
+<img src="img/curb25.jpg" style="width: 200; float: left;"/>
+<img src="img/curb26.jpg" style="width: 200; float: left;"/>
+<img src="img/curb27.jpg" style="width: 200; float: left;"/>
+<img src="img/curb28.jpg" style="width: 200; float: left;"/>
+<img src="img/curb29.jpg" style="width: 200; float: left;"/>
+<img src="img/curb2.jpg" style="width: 200; float: left;"/>
+<img src="img/curb30.jpg" style="width: 200; float: left;"/>
+<img src="img/curb31.jpg" style="width: 200; float: left;"/>
+<img src="img/curb32.jpg" style="width: 200; float: left;"/>
+<img src="img/curb33.jpg" style="width: 200; float: left;"/>
+<img src="img/curb34.jpg" style="width: 200; float: left;"/>
+<img src="img/curb35.jpg" style="width: 200; float: left;"/>
+<img src="img/curb36.jpg" style="width: 200; float: left;"/>
+<img src="img/curb37.jpg" style="width: 200; float: left;"/>
+<img src="img/curb38.jpg" style="width: 200; float: left;"/>
+<img src="img/curb39.jpg" style="width: 200; float: left;"/>
+<img src="img/curb3.jpg" style="width: 200; float: left;"/>
+<img src="img/curb40.jpg" style="width: 200; float: left;"/>
+<img src="img/curb41.jpg" style="width: 200; float: left;"/>
+<img src="img/curb42.jpg" style="width: 200; float: left;"/>
+<img src="img/curb43.jpg" style="width: 200; float: left;"/>
+<img src="img/curb44.jpg" style="width: 200; float: left;"/>
+<img src="img/curb45.jpg" style="width: 200; float: left;"/>
+<img src="img/curb4.jpg" style="width: 200; float: left;"/>
+<img src="img/curb52.jpg" style="width: 200; float: left;"/>
+<img src="img/curb53.jpg" style="width: 200; float: left;"/>
+<img src="img/curb54.jpg" style="width: 200; float: left;"/>
+<img src="img/curb55.jpg" style="width: 200; float: left;"/>
+<img src="img/curb56.jpg" style="width: 200; float: left;"/>
+<img src="img/curb57.jpg" style="width: 200; float: left;"/>
+<img src="img/curb5.jpg" style="width: 200; float: left;"/>
+<img src="img/curb6.jpg" style="width: 200; float: left;"/>
+<img src="img/curb7.jpg" style="width: 200; float: left;"/>
+<img src="img/curb8.jpg" style="width: 200; float: left;"/>
+<img src="img/curb9.jpg" style="width: 200; float: left;"/>
