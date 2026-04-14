@@ -1,3 +1,10 @@
+<style>
+img {
+ float: left;
+}
+</style>
+
+
 <img src="img/curb10.jpg" width=200/>
 <img src="img/curb11.jpg" width=200/>
 <img src="img/curb12.jpg" width=200/>
